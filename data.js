@@ -13,7 +13,7 @@ let songs = [
   },
   {
     name: "song 3",
-    path: ,
+    path: "",
     artist: "",
     cover: "",
   },
